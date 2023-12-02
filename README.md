@@ -1,4 +1,4 @@
-- #▶︎ Hi, I’m Elias!
+# Hi, I’m Elias!
   
 # I’m SUPER into cyber securuity and CTFS along with PenTesting by using hackthebox or crackmes!
  
