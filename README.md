@@ -1,10 +1,10 @@
 # Hi, I’m Elias!
   
-# I’m SUPER into cyber securuity and CTFS along with PenTesting by using hackthebox or crackmes!
+# I’m SUPER into cyber security and CTFS along with PenTesting by using hackthebox or crackmes!
  
 # I do know Java, Python, SQL, C++ BUT I heavily prefer coding in Python!
 
-# I’m a sophmore at GMU studying IT
+# I’m a sophomore at GMU studying IT
   
 # You can reach and talk to me here! 
 
