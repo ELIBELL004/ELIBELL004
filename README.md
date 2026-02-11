@@ -1,6 +1,8 @@
 # Hi, I’m Elias!
   
-# I’m work on cyber security and CTFS along with PenTesting by using hackthebox or crackmes!
+# I focus mainly on cyber security 
+
+# I enjoy doing CTFS along with PenTesting by using hackthebox or tryhackme's!
  
 # I do know Java, Python, SQL, C++ BUT I heavily prefer coding in Python!
 
